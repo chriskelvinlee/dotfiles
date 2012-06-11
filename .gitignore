@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.pyc
 *.swp
 *.idea
@@ -11,3 +12,7 @@ __stdout__
 MANIFEST
 build/*
 dist/*
+=======
+.vim/.netrwhist
+.vim/bundle/**/*
+>>>>>>> 63394a44ab06a5a41605b74d081dba12d3232e1c

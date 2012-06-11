@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Splunk Software Development Kit for Python (Preview Release)
 
 This SDK contains library code and examples designed to enable developers to
@@ -227,3 +228,12 @@ an Open Beta we will provide more detail on support.
 
 ### Contact Us
 You can reach the Dev Platform team at devinfo@splunk.com
+=======
+### Brandon's dotfiles ###
+
+This is the Git repository for Brandon's dotfiles, which include his configuration files for bash, vim, git, irb, and tmux.
+
+Use the installation script to initialize all of the vim plugins (which are managed by vundle) and to symbolically link files to your home directory. The installation script currently only links bash and vim files to your home directory. Link the other dotfiles as well if you want them!
+
+    $ git clone http://github.com/thenovices/dotfiles ~/dotfiles && bash ~/dotfiles/install.sh
+>>>>>>> 63394a44ab06a5a41605b74d081dba12d3232e1c
