@@ -6,8 +6,8 @@
   user = thenovices
 
 [user]
-	name = Brandon Liu
-	email = brandon.k.liu@gmail.com
+	name = Chris Lee
+	email = chris.kelvin.lee@gmail.com
 
 [core]
   editor = /usr/bin/vim
