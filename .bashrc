@@ -1,7 +1,7 @@
-# ~/.bashrc: executed by bash(1) for non-login shells.
-
+# ~/.bashrc: executed by bash(1) for non-login shells.I
 # If not running interactively, don't do anything
 if [ -n "$PS1" ] ; then
+
 
 export HISTCONTROL=ignoreboth # ignoredups and ignorespace
 shopt -s histappend

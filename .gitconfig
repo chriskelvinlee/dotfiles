@@ -85,3 +85,5 @@
 ## for perf reasons (sad), don't add the index-dirtiness state to bash PS1
 [bash]
 	showDirtyState = false
+[credential]
+	helper = osxkeychain
